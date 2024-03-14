@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h>venom: let there be carnage</h>
+      <h>venom: let there be </h>
     </div>
   );
 }
